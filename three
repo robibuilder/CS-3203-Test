@@ -1,0 +1,14 @@
+ Volume in drive D is DATA
+ Volume Serial Number is BEE3-7080
+
+ Directory of D:\Documents\LearnGit
+
+09/20/2018  09:22 AM    <DIR>          .
+09/20/2018  09:22 AM    <DIR>          ..
+09/20/2018  09:22 AM               436 .gitignore
+09/20/2018  09:20 AM               341 mars.txt
+09/20/2018  09:22 AM               385 one
+09/20/2018  09:22 AM                 0 three
+09/20/2018  09:22 AM               480 two
+               5 File(s)          1,642 bytes
+               2 Dir(s)  1,583,137,923,072 bytes free
