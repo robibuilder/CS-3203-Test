@@ -1,0 +1,11 @@
+ Volume in drive D is DATA
+ Volume Serial Number is BEE3-7080
+
+ Directory of D:\Documents\LearnGit
+
+09/20/2018  09:20 AM    <DIR>          .
+09/20/2018  09:20 AM    <DIR>          ..
+09/20/2018  09:20 AM                 0 mars.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  1,583,137,923,072 bytes free
+cold and dry, but everything is  my favorite color.
